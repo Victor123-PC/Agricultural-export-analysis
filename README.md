@@ -65,4 +65,11 @@ Comprehensive agricultural export analytics and dashboard project showcasing pro
 
 Agricultural exports are diversified across 10 countries with balanced revenues, but logistics are heavily concentrated in Lagos. Sesame drives demand, Cassava drives profitability, while Austria & Belgium are growth markets and France & Germany are declining. Strategic focus should be on balancing product mix, expanding growth destinations, mitigating port dependency, and improving margins for weaker products.
 
+## 📊 Dashboard Snapshot
+
+📸 **Agricultural Export Dashboard (PDF Export)**
+
+![Dashboard Snapshot](Agricultural_Export.pdf)
+
+
 
