@@ -94,9 +94,9 @@ Agricultural exports are diversified across 10 countries with balanced revenues,
 ⚠️ Requires Power BI login/permissions.
 
 
-[Download Agricultural Export.pbix](Agricultural Export.pbix)
+[Download Agricultural Export.pbix](Agricultural_Export.pbix)> 
 
-> This file contains the full Power BI dashboard project, including data modeling and visualizations.
+This file contains the full Power BI dashboard project, including data modeling and visualizations.
 
 
 
