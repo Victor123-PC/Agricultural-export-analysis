@@ -83,7 +83,7 @@ Agricultural exports are diversified across 10 countries with balanced revenues,
 
 📸 **Agricultural Export Dashboard**
 
-![Dashboard Screenshot]()
+![Dashboard Screenshot](Agric_Dashboard 1.png)
 
 
 
