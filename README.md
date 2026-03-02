@@ -1,5 +1,20 @@
 # Agricultural-export-analysis
-Comprehensive agricultural export analytics and dashboard project showcasing product performance, seasonal demand trends, profitability insights, and market diversification across 10 countries. Includes executive summaries, visual dashboards, and strategic recommendations for growth, risk management, and logistics optimization.
+
+**Agricultural Export Analysis**
+
+A Power BI dashboard analyzing agricultural export performance across 10 countries. Data was prepared by joining four fact and dimension tables in SQL, then cleaned and transformed in Power BI. The project highlights top products by demand and profitability, revenue distribution by market, seasonal sales trends, and logistics dependencies. Includes an executive summary, interactive visuals, and downloadable project files.
+
+**Tools & Skills**:
+
+SQL → Extracted and joined fact/dimension tables for export
+
+Power BI → Data cleaning, DAX measures, interactive dashboards
+
+Excel/CSV → Raw data handling and preprocessing
+
+Data Visualization → KPIs, bar charts, line graphs, margin analysis
+
+Business Analysis → Export market insights, profitability trends, logistics risk assessment
 
 # Agricultural Export Executive Summary
 
